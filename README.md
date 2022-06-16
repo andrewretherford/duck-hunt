@@ -4,7 +4,6 @@
 
 1. Fork into your account
 1. Clone down to your machine
-1. Submit a Pull Request for HW submission
 
 ## Introduction
 
